@@ -13,4 +13,3 @@ class Dashboard(BasePage):
     events_count_box = "main/div[2]/div[4]/div"
     add_player_button = "//a[contains(@href, 'add')]/button"
     dev_team_contact_button = "//a[contains(@href, 'slack')]"
-
